@@ -1,16 +1,1 @@
-# calculater
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a simple calculator application developed using Flutter and Dart to practice mobile UI design and basic programming logic. The app provides a clean and responsive interface with number buttons, arithmetic operators, a clear function, and a display screen to show inputs and results. It supports basic mathematical operations such as addition, subtraction, multiplication, and division using state management with StatefulWidget and setState() to update the UI dynamically. This project was built as a learning exercise to improve understanding of Flutter layouts like Row, Column, Container, button interactions, and implementing simple calculation logic in a mobile application.
